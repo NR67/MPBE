@@ -4,3 +4,4 @@ navigator.__defineGetter__('userAgent', function () {
 navigator.__defineGetter__('appName', function () {
     return "Netscape"
 });
+alert("Hello world!);
